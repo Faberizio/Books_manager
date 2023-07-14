@@ -15,7 +15,7 @@ Update book details, including the title, status, description, percentage read, 
 Delete books from your collection.
 Truncate the book table, removing all book entries.
 
-##Getting Started
+## Getting Started
 To get started with Books Manager, follow these steps:
 
 1. Clone the repository:
