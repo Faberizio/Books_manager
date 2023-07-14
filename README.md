@@ -2,14 +2,13 @@
 Books Manager is a console-based application that helps you manage your reading list. It allows you to add new books, search for books by title, update book information, and perform other book-related operations. The app provides a user-friendly interface to interact with your book collection effortlessly.
 
 ## Features
-
 #### Data Query
 
 Find the number of books that were read completely during a specific period of time.
 Determine the count of pending books.
 Search for books by title.
 
-###Data Manipulation
+### Data Manipulation
 
 Insert new books into your book collection.
 Update book details, including the title, status, description, percentage read, start date, and end date.
